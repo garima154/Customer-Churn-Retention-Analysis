@@ -22,6 +22,22 @@ An interactive Power BI dashboard designed to analyze customer churn, explore re
 3. **Services Analysis:** Internet service, payment method, and contract patterns.
 4. **Churn Insights:** Analysis of tenure, monthly charges, support services, and customer segments.
 
+
+## Dashboard Preview
+
+### Overview
+![Overview](overview.png)
+
+### Customer Analysis
+![Customer Analysis](customer%20churn%20analysis.png)
+
+### Services Analysis
+![Services Analysis](service%20analysis.png)
+
+### Churn Insights
+![Churn Insights](churn%20insights.png)
+
+
 ## Dataset
 Telco Customer Churn dataset, containing customer information, subscribed services, contract details, billing information, and churn status.
 
